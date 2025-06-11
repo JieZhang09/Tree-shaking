@@ -1,0 +1,1 @@
+(()=>{"use strict";var e,n;document.body.appendChild(((n=document.createElement("pre")).innerHTML=["Hello webpack!","5 cubed is equal to "+(e=10,e*e)].join("\n\n"),n))})();
